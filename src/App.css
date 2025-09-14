@@ -1,0 +1,40 @@
+.container-div {
+  display: flex;
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+  max-width: 100%;
+
+}
+
+.content {
+  flex-grow: 1;
+  width: 100%;
+
+
+}
+
+.sidebar {
+  min-height: 800px;
+}
+
+.postcard {
+  width: 18rem;
+  margin: 20px 50px;
+  min-width: 30rem;
+}
+
+.hashtag {
+  margin: 0px 3px;
+}
+
+.reactions {
+  width: 100%;
+  margin: 15px 0 0 0;
+}
+
+.createlist {
+  width: 80%;
+  margin-top: 50px;
+  margin-left: 10px;
+}
