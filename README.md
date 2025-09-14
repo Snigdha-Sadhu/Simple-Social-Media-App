@@ -1,8 +1,27 @@
-# React + Vite
+# Simple Social Media App
+A simple social media app built with React where users can create posts.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
 
-Currently, two official plugins are available:
+-Create a post with
+  -Name
+  -Title
+  -Content
+  -Number of reactions
+  -Hashtags
+-View all posts on the Home page
+-Delete a post
+-Simple and Clean UI
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Installation Setup
+  1.clone this repository
+  git clone
+
+  2.Navigate into the project folder:
+  cd Socialmedia https://github.com/Snigdha-Sadhu/Simple-Social-Media-App.git
+
+  3.Install dependencies:
+  npm install
+
+  4.Start the development server:
+  npm run dev
